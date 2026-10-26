@@ -30,7 +30,7 @@ All it means is that the developers tried their best to balance the legendary bi
 The highest base stat pokemon is MewTwo with a total base stat of 680.
 Whilst the lowest in the top 10 is Lapras with 535.
 This is a range of 145 in the top 10, which is a substantial range in terms of overall strength of the pokemon, 
-purely based of stats. 
+purely based off stats. 
 However, this data does not take their movesets or capabilities into account, therefore this may be misleading.
 
 ## 3. Attack Vs Speed (All Gen 1 Pokemon)
